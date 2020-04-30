@@ -1,0 +1,13 @@
+---- qbsp / ericw-tools v0.18.1 ----
+---- LoadMapFile ----
+          834 faces
+          139 brushes
+           68 entities
+           13 unique texnames
+          304 texinfo
+
+     Updating entities lump...
+Wrote Underground.bsp
+
+0.031 seconds elapsed
+Peak memory usage: 919896 (0.9M)
